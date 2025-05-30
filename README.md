@@ -4,7 +4,7 @@ Este é um projeto desenvolvido para praticar HTML, CSS e JavaScript com foco em
 
 ## 📸 Demonstração
 
-![Demonstração da página](img/iphone_green.jpg)
+![Demonstração da página](img/tela.jpg)
 
 ## 🧰 Tecnologias Utilizadas
 
